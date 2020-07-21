@@ -1,0 +1,10 @@
+discord.py
+psutil
+requests
+gitpython
+pymongo
+dnspython
+circleci
+python-dotenv
+fake-useragent
+beautifulsoup4
